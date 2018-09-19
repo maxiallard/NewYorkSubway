@@ -3,6 +3,8 @@ This is a small class project which was made in a Data Analytics class. It uses 
 In this Notebook the data is used to form a graph consisting of all the stations of the New York Subway. After forming a graph in Python, we can use graph theory to make some analysis.
 This project can even be taken further to combine the stations ( nodes of the graph ) with the number of entrances/exits to make more analysis on the number of people taking the subway etc. However,this is not yet included in this notebook.
 
+In addition to building a graph, this notebook also includes a little bit of web-scrapping to get all the stations.
+
 ## Authors
 
 * **Maxime Allard**
